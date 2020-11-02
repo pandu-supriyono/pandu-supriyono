@@ -1,6 +1,6 @@
 # Hello, world 👋
 
-My name is Pandu Supriyono. I'm a web developer and raised in The Hague, the Netherlands but now
+My name is Pandu Supriyono. I'm a web developer born and bred in The Hague, the Netherlands but now
 left my hometown to live in Utrecht. I am particularly interested in developing critical insights
 with regards to digital technology and its role in society. Given this, I do my
 best to contribute to a fair, inclusive and positive World Wide Web in the code
