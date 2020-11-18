@@ -8,9 +8,8 @@ I bring out to the world.
 
 ## Maintenant...
 
-- 🔭 I’m currently developing new citizen services for the Embassy of the Republic of Indonesia and creating new digital identities for Stichting Ozanam, Vivaldi and Op Weg. These are non-profit organizations tasked in tackling social and psycho-social issues in my home city of The Hague.
+- 🔭 I’m currently developing new citizen services for the Embassy of the Republic of Indonesia and creating new digital identities for Stichting Ozanam, Vivaldi and Op Weg. These are non-profit organizations tasked in tackling social and psycho-social issues in my home city of The Hague. On top of that I am working together with a Russian-Dutch company to build a platform for organizations involved in tackling food waste to find each other.
 - 🌱 I’m currently busy launching a small web development studio called __Opinionated__
 - 📖 I'm currently learning my way around progressive web apps 
-- 🆕 I recently tried JAMstack for the first time and created a website for a non-profit that helps people improve their job application skills,
-    namely [Stichting JobHulpMaatje Den Haag](https://jobhulpmaatjedenhaag.nl)
+- 🆕 I recently tried JAMstack for the first time and created a website for a non-profit that helps people improve their job application skills, link available soon!
 - 🎸 I play (synth) bass in an Utrecht-based new wave band
